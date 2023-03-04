@@ -38,3 +38,5 @@
 </div>
 
 ***
+
+![Snake animation](https://github.com/Jonatas98Lopes/Jonatas98Lopes/blob/output/github-contribution-grid-snake.svg)
