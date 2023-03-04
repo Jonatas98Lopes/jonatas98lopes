@@ -18,8 +18,8 @@
 ***
 
 <div href="https://github.com/Jonatas98Lopes">
-  <img height="180cm" width="500cm" src="https://github-readme-stats.vercel.app/api?username=Jonatas98Lopes&showicons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatas98Lopes&layout=compact&langs_count=16&theme=cobalt2"/>
+  <img height="180cm" width="400cm" src="https://github-readme-stats.vercel.app/api?username=Jonatas98Lopes&showicons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
+  <img height="180cm" width="450cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatas98Lopes&layout=compact&langs_count=16&theme=cobalt2"/>
 
 </div>
 
